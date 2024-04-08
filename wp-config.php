@@ -23,7 +23,7 @@
 define( 'DB_NAME', 'cannabis-assembly' );
 
 /** Имя пользователя базы данных */
-define( 'DB_USER', 'root' );
+define( 'DB_USER', 'rootroot' );
 
 /** Пароль к базе данных */
 define( 'DB_PASSWORD', '' );
